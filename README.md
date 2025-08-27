@@ -1,1 +1,1 @@
-# Full-Stack-Recipe-Management-System
+# Recipe-Management-System

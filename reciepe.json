@@ -1,0 +1,130 @@
+[
+    { 
+        "name": "Pad Thai",
+        "description": "1. Soak rice noodles in warm water for 10 minutes. 2. Heat oil in a pan, add garlic and shrimp, cook until shrimp is pink. 3. Add eggs and scramble. 4. Add noodles, tamarind paste, fish sauce, sugar, and chili powder. 5. Stir-fry until noodles are tender. 6. Add bean sprouts and green onions, cook for another minute. 7. Garnish with peanuts, lime wedges, and cilantro.",
+        "email": "recipeemail@raddy.co.uk",
+        "ingredients": ["Rice noodles", "Shrimp", "Eggs", "Garlic", "Tamarind paste", "Fish sauce", "Sugar", "Chili powder", "Bean sprouts", "Green onions", "Peanuts", "Lime", "Cilantro"],
+        "category": "thai", 
+        "image": "Pad_Thai.jpg"
+    },
+    { 
+        "name": "Butter Chicken",
+        "description": "1. Marinate chicken with yogurt, ginger-garlic paste, and spices. 2. Cook marinated chicken in a pan until done. 3. In another pan, heat butter and add onions, ginger, garlic, and green chilies. 4. Add tomatoes and cook until soft. 5. Add cooked chicken, cream, and kasuri methi. 6. Simmer until the gravy thickens. 7. Garnish with fresh cream and cilantro.",
+        "email": "recipeemail@raddy.co.uk",
+        "ingredients": ["Chicken", "Yogurt", "Ginger-garlic paste", "Spices", "Butter", "Onions", "Ginger", "Garlic", "Green chilies", "Tomatoes", "Cream", "Kasuri methi", "Cilantro"],
+        "category": "indian", 
+        "image": "Butter-Chicken.jpg"
+    },
+    {
+        "name": "Sweet and Sour Pork",
+        "description": "1. Marinate pork with soy sauce, cornstarch, and egg. 2. Deep fry marinated pork until golden brown. 3. In a wok, heat oil and stir-fry bell peppers and onions. 4. Add pineapple chunks and stir-fry for a minute. 5. Add sweet and sour sauce and bring to a boil. 6. Add fried pork and stir until coated with the sauce. 7. Serve hot with steamed rice.",
+        "email":"recipeemail@raddy.co.uk",
+        "ingredients": ["Pork", "Soy sauce", "Cornstarch", "Egg", "Bell peppers", "Onions", "Pineapple chunks", "Sweet and sour sauce", "Oil", "Steamed rice"],
+        "category": "chinese",
+        "image":"Sweet_and_Sour_Pork.jpg"
+    },
+    {
+        "name": "Paella",
+        "description": "1. Heat olive oil in a paella pan, add chicken and chorizo, cook until browned. 2. Add onions, garlic, and bell peppers, cook until softened. 3. Add tomatoes, paprika, and saffron, cook for a few minutes. 4. Add rice and stir to coat with the mixture. 5. Pour in chicken broth and bring to a boil. 6. Add seafood and peas, cover and cook until rice is tender. 7. Garnish with lemon wedges and parsley.",
+        "email":"recipeemail@raddy.co.uk",
+        "ingredients": ["Chicken", "Chorizo", "Onions", "Garlic", "Bell peppers", "Tomatoes", "Paprika", "Saffron", "Rice", "Chicken broth", "Seafood", "Peas", "Lemon", "Parsley"],
+        "category": "spanish",
+        "image":"Paella.jpg"
+    },
+    {
+        "name": "Cheeseburger",
+        "description": "1. Shape ground beef into patties, season with salt and pepper. 2. Heat a skillet and cook patties until desired doneness. 3. Top with cheese slices and let melt. 4. Toast burger buns. 5. Assemble burgers with lettuce, tomato, onions, pickles, and condiments of choice. 6. Serve hot with fries.",
+        "email":"recipeemail@raddy.co.uk",
+        "ingredients": ["Ground beef", "Salt", "Pepper", "Cheese slices", "Burger buns", "Lettuce", "Tomato", "Onions", "Pickles", "Condiments", "Fries"],
+        "category": "american",
+        "image":"Cheesburger.jpg"
+    },
+    {
+        "name": "Tacos",
+        "description": "1. Cook ground beef in a pan, add taco seasoning and water, simmer until thickened. 2. Warm tortillas. 3. Assemble tacos with beef, lettuce, cheese, salsa, sour cream, and guacamole. 4. Serve immediately.",
+        "email":"recipeemail@raddy.co.uk",
+        "ingredients": ["Ground beef", "Taco seasoning", "Water", "Tortillas", "Lettuce", "Cheese", "Salsa", "Sour cream", "Guacamole"],
+        "category": "mexican",
+        "image":"Tacos.jpg"
+    },
+    {
+        "name": "Green Curry",
+        "description": "1. Heat oil in a pan, add green curry paste and stir-fry until fragrant. 2. Add coconut milk and bring to a boil. 3. Add chicken and cook until done. 4. Add eggplants, bamboo shoots, and bell peppers, cook until vegetables are tender. 5. Add fish sauce and sugar, simmer for a few minutes. 6. Garnish with Thai basil and serve with jasmine rice.",
+        "email":"recipeemail@raddy.co.uk",
+        "ingredients": ["Green curry paste", "Coconut milk", "Chicken", "Eggplants", "Bamboo shoots", "Bell peppers", "Fish sauce", "Sugar", "Thai basil", "Jasmine rice"],
+        "category": "thai",
+        "image":"Tacos.jpg"
+    },
+    {
+        "name": "Biryani",
+        "description": "1. Marinate chicken with yogurt and spices. 2. Cook basmati rice with whole spices until 70% done. 3. Fry onions until golden brown. 4. Layer chicken, fried onions, and rice in a pot. 5. Add saffron milk and ghee. 6. Cover and cook on low heat until rice is fully cooked. 7. Garnish with cilantro and serve with raita.",
+        "email":"recipeemail@raddy.co.uk",
+        "ingredients": ["Chicken", "Yogurt", "Spices", "Basmati rice", "Whole spices", "Onions", "Saffron", "Milk", "Ghee", "Cilantro", "Raita"],
+        "category": "indian",
+        "image":"Tacos.jpg"
+    },
+    {
+        "name": "Kung Pao Chicken",
+        "description": "1. Marinate chicken with soy sauce, cornstarch, and rice wine. 2. Stir-fry dried chilies in oil until fragrant. 3. Add chicken and cook until done. 4. Add bell peppers, zucchini, and peanuts. 5. Pour in sauce made from soy sauce, vinegar, sugar, and cornstarch. 6. Stir until sauce thickens and coats everything. 7. Serve with steamed rice.",
+        "email":"recipeemail@raddy.co.uk",
+        "ingredients": ["Chicken", "Soy sauce", "Cornstarch", "Rice wine", "Dried chilies", "Bell peppers", "Zucchini", "Peanuts", "Vinegar", "Sugar", "Steamed rice"],
+        "category": "chinese",
+        "image":"Tacos.jpg"
+    },
+    {
+        "name": "Gazpacho",
+        "description": "1. Blend tomatoes, cucumber, bell peppers, onion, garlic, olive oil, vinegar, and bread until smooth. 2. Chill in the refrigerator for at least 2 hours. 3. Serve cold with a drizzle of olive oil and garnish with chopped vegetables and herbs.",
+        "email":"recipeemail@raddy.co.uk",
+        "ingredients": ["Tomatoes", "Cucumber", "Bell peppers", "Onion", "Garlic", "Olive oil", "Vinegar", "Bread", "Herbs"],
+        "category": "spanish",
+        "image":"Tacos.jpg"
+    },
+    {
+        "name": "Fried Chicken",
+        "description": "1. Marinate chicken in buttermilk and spices for at least 4 hours. 2. Dredge chicken in seasoned flour. 3. Heat oil in a deep fryer or skillet. 4. Fry chicken until golden brown and crispy. 5. Drain on paper towels. 6. Serve hot with sides like mashed potatoes and coleslaw.",
+        "email":"recipeemail@raddy.co.uk",
+        "ingredients": ["Chicken", "Buttermilk", "Spices", "Flour", "Oil", "Mashed potatoes", "Coleslaw"],
+        "category": "american",
+        "image":"Tacos.jpg"
+    },
+    {
+        "name": "Enchiladas",
+        "description": "1. Cook ground beef with onions and taco seasoning. 2. Fill tortillas with beef mixture and roll them up. 3. Place rolled tortillas in a baking dish and pour enchilada sauce over them. 4. Sprinkle with cheese. 5. Bake at 350°F until cheese is melted and bubbly. 6. Serve with sour cream and guacamole.",
+        "email":"recipeemail@raddy.co.uk",
+        "ingredients": ["Ground beef", "Onions", "Taco seasoning", "Tortillas", "Enchilada sauce", "Cheese", "Sour cream", "Guacamole"],
+        "category": "mexican",
+        "image":"Tacos.jpg"
+    },
+    {
+        "name": "Tom Yum Soup",
+        "description": "1. Bring chicken broth to a boil, add lemongrass, kaffir lime leaves, and galangal. 2. Add mushrooms, tomatoes, and shrimp. 3. Season with fish sauce, lime juice, and chili paste. 4. Simmer until shrimp is cooked. 5. Garnish with cilantro and serve hot.",
+        "email":"recipeemail@raddy.co.uk",
+        "ingredients": ["Chicken broth", "Lemongrass", "Kaffir lime leaves", "Galangal", "Mushrooms", "Tomatoes", "Shrimp", "Fish sauce", "Lime juice", "Chili paste", "Cilantro"],
+        "category": "thai",
+        "image":"Tacos.jpg"
+    },
+    {
+        "name": "Rogan Josh",
+        "description": "1. Marinate lamb with yogurt and spices. 2. Heat oil in a pot, add onions and cook until golden. 3. Add ginger-garlic paste and cook for a few minutes. 4. Add lamb and cook until browned. 5. Add tomato puree and water, simmer until lamb is tender. 6. Garnish with cilantro and serve with naan or rice.",
+        "email":"recipeemail@raddy.co.uk",
+        "ingredients": ["Lamb", "Yogurt", "Spices", "Oil", "Onions", "Ginger-garlic paste", "Tomato puree", "Water", "Cilantro", "Naan", "Rice"],
+        "category": "indian",
+        "image":"Tacos.jpg"
+    },
+    {
+        "name": "Dim Sum",
+        "description": "1. Mix ground pork, shrimp, ginger, garlic, and green onions. 2. Wrap mixture in wonton wrappers. 3. Steam dim sum in a bamboo steamer until cooked. 4. Serve hot with soy sauce and chili oil.",
+        "email":"recipeemail@raddy.co.uk",
+        "ingredients": ["Ground pork", "Shrimp", "Ginger", "Garlic", "Green onions", "Wonton wrappers", "Soy sauce", "Chili oil"],
+        "category": "chinese",
+        "image":"Tacos.jpg"
+    },
+    {
+        "name": "Tortilla Española",
+        "description": "1. Thinly slice potatoes and onions. 2. Fry in olive oil until tender. 3. Beat eggs and mix with cooked potatoes and onions. 4. Pour mixture into a hot pan and cook until set. 5. Flip and cook the other side. 6. Serve hot or at room temperature.",
+        "email":"recipeemail@raddy.co.uk",
+        "ingredients": ["Potatoes", "Onions", "Eggs", "Olive oil", "Salt"],
+        "category": "spanish",
+        "image":"Tacos.jpg"
+    }
+]
